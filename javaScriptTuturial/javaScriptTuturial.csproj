@@ -77,13 +77,20 @@
   <ItemGroup>
     <Content Include="scripts\app.js" />
     <Content Include="index.html" />
+    <Content Include="scripts\ArgumentsAndSpread.js" />
+    <Content Include="scripts\Arrays.js" />
+    <Content Include="scripts\ByValueByReference.js" />
     <Content Include="scripts\DefaultValues.js" />
     <Content Include="scripts\FakingNamespaces.js" />
+    <Content Include="scripts\FunctionOverLoading.js" />
     <Content Include="scripts\FunctionsAreObjects.js" />
+    <Content Include="scripts\ImmediatelyInvokedFuncExpressions.js" />
     <Content Include="scripts\JSON.js" />
     <Content Include="scripts\lib1.js" />
     <Content Include="scripts\lib2.js" />
     <Content Include="scripts\ObjectLiterals.js" />
+    <Content Include="scripts\ObjectsFunctionsAndThis.js" />
+    <Content Include="scripts\Whitespace.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

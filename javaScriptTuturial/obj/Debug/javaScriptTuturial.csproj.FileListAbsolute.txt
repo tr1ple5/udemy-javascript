@@ -17,3 +17,24 @@ c:\users\derricke\documents\visual studio 2015\Projects\javaScriptTuturial\javaS
 c:\users\derricke\documents\visual studio 2015\Projects\javaScriptTuturial\javaScriptTuturial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 c:\users\derricke\documents\visual studio 2015\Projects\javaScriptTuturial\javaScriptTuturial\obj\Debug\javaScriptTuturial.dll
 c:\users\derricke\documents\visual studio 2015\Projects\javaScriptTuturial\javaScriptTuturial\obj\Debug\javaScriptTuturial.pdb
+C:\Users\derricke\Documents\Visual Studio 2015\Projects\javaScriptTuturial\javaScriptTuturial\obj\Debug\javaScriptTuturial.csprojResolveAssemblyReference.cache
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\csc.exe
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\vbc.exe
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\VBCSCompiler.exe
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\javaScriptTuturial.dll.config
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\javaScriptTuturial.dll
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\javaScriptTuturial.pdb
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\obj\Debug\javaScriptTuturial.csprojResolveAssemblyReference.cache
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\obj\Debug\javaScriptTuturial.dll
+C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\obj\Debug\javaScriptTuturial.pdb
