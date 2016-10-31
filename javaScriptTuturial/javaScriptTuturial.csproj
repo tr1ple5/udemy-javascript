@@ -80,8 +80,10 @@
     <Content Include="scripts\ArgumentsAndSpread.js" />
     <Content Include="scripts\Arrays.js" />
     <Content Include="scripts\ByValueByReference.js" />
+    <Content Include="scripts\Closures.js" />
     <Content Include="scripts\DefaultValues.js" />
     <Content Include="scripts\FakingNamespaces.js" />
+    <Content Include="scripts\FunctionFactories.js" />
     <Content Include="scripts\FunctionOverLoading.js" />
     <Content Include="scripts\FunctionsAreObjects.js" />
     <Content Include="scripts\ImmediatelyInvokedFuncExpressions.js" />
