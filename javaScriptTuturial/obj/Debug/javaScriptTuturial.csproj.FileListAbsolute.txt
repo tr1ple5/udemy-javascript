@@ -35,6 +35,5 @@ C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTu
 C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\javaScriptTuturial.pdb
 C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\obj\Debug\javaScriptTuturial.csprojResolveAssemblyReference.cache
 C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\obj\Debug\javaScriptTuturial.dll
 C:\Users\derricke\Documents\Transferred Projects\javaScriptTuturial\javaScriptTuturial\obj\Debug\javaScriptTuturial.pdb
